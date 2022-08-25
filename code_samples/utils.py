@@ -22,7 +22,7 @@ def processTokenChunks(channelList):
                 if sys.argv[1]=='--ott-navigator':
                     kodiPropLicenseUrl = "#KODIPROP:inputstream.adaptive.license_key=" + licenseUrl
             except IndexError:
-                    kodiPropLicenseUrl = "#KODIPROP:inputstream.adaptive.license_key=" + licenseUrl + "|Content-Type=application/octet-stream|R{SSM}|"2
+                    kodiPropLicenseUrl = "#KODIPROP:inputstream.adaptive.license_key=" + licenseUrl + "|Content-Type=application/octet-stream|R{SSM}|"
         else:
             print("Didn't get license for channel: Id: {0} Name:{1}".format(channel['channel_id'],
                                                                             channel['channel_name']))
