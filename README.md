@@ -9,7 +9,7 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 
 + A working brain
 + Knowledge of basic python
-+ A working TataPlay account
++ A working Tata Play IPTV account
 + Channels that you want to watch, already subscribed (I'm sorry, no freebies)
 
 ## Script (Difficult)
