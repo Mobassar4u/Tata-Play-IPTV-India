@@ -47,7 +47,7 @@ def getAllChannels():
     channel_list = x.json()['data']['list']
     print("Total Channels fetched:", len(channel_list))
     print("Fetching channel info..........")
-    for i in range(0, len(channel_list), 5):
+    for i in range(0, len(channel_list), 1):
         t = threading.Thread(target=processChnuks, args=([channel_list[i:i + 1]]))
         ts.append(t)
         t.start()
