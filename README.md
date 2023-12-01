@@ -24,12 +24,12 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 ### Running the scripts
 + Clone this to your directory using ```git clone https://github.com/Mobassar4u/Tata-Play-IPTV-India``` or download the `zip` file and then go inside the `code_samples` directory and open your terminal there
 + Change to the ```code_samples``` directory by using  ```cd code_samples```
-+ Ist Install Requirement Text Files Just Copy pip install requests text file & Paste in the Terminal
-+ ```
++ Install Requirement Text Files Just Copy pip install requests file & Paste in the Terminal then hit enter
+  ```
       pip install requests
   ```
 + Simply run ```main.py``` (the main script) using the following code
-```python
+```
     python main.py
 ```
 + You will get options to login using the different methods, upon successful login a ```userDetails.json``` file is created which contains important details of the user. The ```accessToken``` has to be updated from time to time. To do so run the login logic again. If you delete the ```userDetails.json``` file you will have to login again so please be careful 
