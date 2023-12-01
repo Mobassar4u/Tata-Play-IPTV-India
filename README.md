@@ -24,9 +24,10 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 ### Running the scripts
 + Clone this to your directory using ```git clone https://github.com/Mobassar4u/Tata-Play-IPTV-India``` or download the `zip` file and then go inside the `code_samples` directory and open your terminal there
 + Change to the ```code_samples``` directory by using  ```cd code_samples```
-+ ```python
-    pip install requests
-```
++ Ist Install Requirement Text Files Just Copy pip install requests text file & Paste in the Terminal
++ ```
+      pip install requests
+  ```
 + Simply run ```main.py``` (the main script) using the following code
 ```python
     python main.py
