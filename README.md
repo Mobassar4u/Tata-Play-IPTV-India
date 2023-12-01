@@ -28,7 +28,7 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
   ```
       pip install requests
   ```
-+ Simply run ```main.py``` (the main script) using the following code
++ After Install Simply run ```main.py``` (the main script) using the following code
 ```
     python main.py
 ```
