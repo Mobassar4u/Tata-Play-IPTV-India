@@ -27,7 +27,7 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 
 + Install Requirement Text Files Just Copy pip install requests file & Paste in the Terminal then hit enter
   ```
-      pip install requests
+      pip install -r requirements.txt
   ```
 + After Install Simply run ```main.py``` (the main script) using the following code
   ```
