@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Mobassar4u/Tata-Play-IPTV-India/main/Project-Images/Tata-Play-Banner.png" ></p>
+<p align="center"><img src="https://www.tataplay.com/s3-api/v1/assets/others/intro-image-desktop.png" ></p>
 
 
 # Tata Play IPTV India Playlist Script Files
